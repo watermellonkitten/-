@@ -1,0 +1,15 @@
+{
+  "colors": {
+    "user": "dark_green",
+    "ai": "light_yellow",
+    "system": "green",
+    "error": "red",
+    "warning": "yellow",
+    "info": "blue"
+  },
+  "api_key": "XXXXXXXXXX",
+  "api_base": "https://api.moonshot.cn/v1",
+  "model": "kimi-k2.5",
+  "thinking_enabled": true,
+  "auto_save": true
+}

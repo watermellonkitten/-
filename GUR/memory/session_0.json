@@ -1,0 +1,14 @@
+{
+  "session_id": 0,
+  "name": "默认会话",
+  "personality": "default",
+  "messages": [
+    {
+      "role": "user",
+      "content": "\b\b\b\b\b说的话那就\n238",
+      "timestamp": "2026-04-03T08:40:31.636003"
+    }
+  ],
+  "created_at": "2026-04-03T08:40:09.553107",
+  "updated_at": "2026-04-03T08:40:31.636015"
+}
